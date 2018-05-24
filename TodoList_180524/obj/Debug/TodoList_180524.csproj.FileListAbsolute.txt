@@ -1,0 +1,17 @@
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\bin\Debug\TodoList_180524.exe.config
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\bin\Debug\TodoList_180524.exe
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\bin\Debug\TodoList_180524.pdb
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\MainWindow.g.cs
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoItem.g.cs
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\App.g.cs
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoList_180524_MarkupCompile.cache
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoList_180524_MarkupCompile.lref
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\MainWindow.baml
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoItem.baml
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoList_180524.g.resources
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoList_180524.Properties.Resources.resources
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoList_180524.csproj.GenerateResource.Cache
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoList_180524.exe
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoList_180524.pdb
+C:\Users\w401\Desktop\TodoList_180524\TodoList_180524\obj\Debug\TodoList_180524.csprojResolveAssemblyReference.cache
